@@ -1,0 +1,10 @@
+logs_tensorboard
+*.pth
+dqn_model_reward
+wandb
+__pycache__/
+berrygrid/
+traj/
+models_save
+models_phaseI
+models_current
